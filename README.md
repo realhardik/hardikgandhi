@@ -1,5 +1,7 @@
 # hardikgandhi
-Profile
-
 ![Sonoma Evening](/images/sonoma-horizon.heic)
-![Sonoma Evening](/images/sonoma-horizon.jpeg)
+
+## Independent Developer
+
+# Portfolio
+[https://hardikgandhi.me](https://hardikgandhi.me "Portfolio")
