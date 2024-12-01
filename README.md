@@ -1,4 +1,3 @@
-# hardik gandhi
 ![Sonoma Evening](/images/sonoma-horizon.heic)
 
 ## Independent Developer
